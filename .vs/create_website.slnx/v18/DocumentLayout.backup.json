@@ -38,7 +38,8 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-16T20:34:12.664Z"
+              "WhenOpened": "2026-09-16T20:34:12.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,7 +51,8 @@
               "RelativeToolTip": "projects.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-09-16T20:34:12.627Z"
+              "WhenOpened": "2026-09-16T20:34:12.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\pikab\\Downloads\\HighGitter\\create_website\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAPUAAAAAAAAAAAAiwBMBAADQAQAAAAAAAA==",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAkwAABAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-16T20:34:12.601Z",
               "EditorCaption": ""
@@ -75,7 +77,8 @@
               "RelativeToolTip": "cv.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-09-16T20:34:12.286Z"
+              "WhenOpened": "2026-09-16T20:34:12.286Z",
+              "EditorCaption": ""
             }
           ]
         }
